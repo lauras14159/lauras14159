@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m a Frontend Developer specializing in React.<br>I’m currently learning Backend Development with the MERN stack by building simple projects.<br>I also work with Blender and have basic knowledge of Figma.<br><br>Tech Stack:<br>React, JavaScript, HTML, CSS, Node.js, Express.js, MongoDB, Blender, Figma
+Heyyy! I’m a Frontend Developer specializing in React.<br>I’m currently learning Backend Development with the MERN stack by building simple projects.<br>I also work with Blender and have basic knowledge of Figma.<br><br>Tech Stack:<br>React, JavaScript, HTML, CSS, Node.js, Express.js, MongoDB, Blender, Figma
 
 
 # 💻 Tech Stack:
