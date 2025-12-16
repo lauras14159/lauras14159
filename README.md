@@ -1,12 +1,13 @@
 # 💫 About Me:
-Heyy there! I’m a React Frontend Developer diving into the MERN stack through fun projects.
-When I’m not coding, you’ll find me tinkering in Blender or experimenting with Figma.
+Hey! I’m a React Frontend Developer exploring the MERN stack one small project at a time.<br>
+I also love working with Blender and dabbling in Figma.
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -27,7 +28,7 @@ When I’m not coding, you’ll find me tinkering in Blender or experimenting wi
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Laura&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Laura&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Laura&theme=dark&hide_border=false&layout=compact&hide=php,python,java)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Laura&theme=dark&hide_border=false&layout=compact&langs_count=5&hide=php,apache,python,java)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Laura&icon=0&color=1)](https://visitcount.itsvg.in)
