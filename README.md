@@ -28,7 +28,7 @@ I also love working with Blender and dabbling in Figma.
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Laura&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Laura&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Laura&theme=dark&hide_border=false&layout=compact&langs_count=5&hide=apache,php,python,java&langs=JavaScript,TypeScript,HTML,CSS,Tailwind)
+![](https://gprm.itsvg.in/api/top-langs?username=Laura&langs=JavaScript,TypeScript,HTML,CSS,Tailwind&hide=apache,php,python,java)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Laura&icon=0&color=1)](https://visitcount.itsvg.in)
