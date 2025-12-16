@@ -29,7 +29,7 @@ I also love working with Blender and dabbling in Figma.
 ![](https://nirzak-streak-stats.vercel.app/?user=Laura&theme=dark&hide_border=false)<br/>
 
 # 🖥 Most Used Languages:
-![](https://gprm.itsvg.in/api/top-langs?username=Laura&langs=JavaScript,TypeScript,HTML,CSS,Tailwind&hide=apache,php,python,java)
+![](https://gprm.itsvg.in/api/top-langs?username=Laura&langs=JavaScript,TypeScript,Tailwind,HTML,CSS&hide=apache,php,python,java)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Laura&icon=0&color=1)](https://visitcount.itsvg.in)
