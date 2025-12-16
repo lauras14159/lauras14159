@@ -26,8 +26,9 @@ I also love working with Blender and dabbling in Figma.
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Laura&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Laura&theme=dark&hide_border=false)<br/>
+
+# 🖥 Most Used Languages:
 ![](https://gprm.itsvg.in/api/top-langs?username=Laura&langs=JavaScript,TypeScript,HTML,CSS,Tailwind&hide=apache,php,python,java)
 
 ---
