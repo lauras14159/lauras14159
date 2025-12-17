@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hey! I’m a React Frontend Developer exploring the MERN stack one small project at a time.<br>
-I also love working with Blender and dabbling in Figma.
+I’m also into Blender and Figma — catch me there if I’m not coding!☺
 
 # 💻 Tech Stack:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -17,5 +17,6 @@ I also love working with Blender and dabbling in Figma.
 ![JavaScript](https://img.shields.io/badge/JavaScript-30%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-55%25-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-15%25-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Laura&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
